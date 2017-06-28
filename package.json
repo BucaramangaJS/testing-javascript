@@ -1,0 +1,15 @@
+{
+  "name": "bucaramangajs-testing-javascript",
+  "version": "1.0.0",
+  "description": "Testing en JavaScript con Mocha y Chai",
+  "author": "Romel Pérez (romelperez.com)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "mocha './src/**/*.test.js'"
+  },
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
